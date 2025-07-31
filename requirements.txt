@@ -1,9 +1,5 @@
-streamlit
+feedparser
+google-generativeai
+python-dotenv
 pandas
-langchain
-langchain-core
-langchain-ollama
-langchain-huggingface
-sentence-transformers
-faiss-cpu
-openpyxl
+python-dateutil
