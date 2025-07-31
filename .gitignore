@@ -1,0 +1,36 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+.env
+
+# Byte-compiled / optimized / C extensions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor configuration files
+.idea/
+.vscode/
+
+# Streamlit configuration
+.streamlit/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Data files - It's good practice not to commit data files
+# You can remove these lines if you want to track your data
+*.csv
+*.xlsx
+*.arff
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
